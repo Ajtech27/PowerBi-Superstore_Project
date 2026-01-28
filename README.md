@@ -50,4 +50,4 @@ Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, 
 ---
 
 ## 📸 Dashboard Preview
-Dashboard screenshort has been added to the files above.
+[Dashboard screenshort](https://github.com/Ajtech27/PowerBi-Superstore_Project/blob/main/Dashborad%20Image.jpg)
